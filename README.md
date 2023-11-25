@@ -14,17 +14,29 @@ Versão com controladora - Usa o [Midi Mixer](https://www.midi-mixer.com/)
 [KeyPad](https://github.com/Chris--A/Keypad)
 
 Arduino -> cor do fio correspondente
+
 COLUNA
+
 PORTA 15 -> CINZA
+
 PORTA 14 -> AZUL
+
 PORTA 16 -> VERDE
 
 LINHA
+
 PORTA 2 -> AMARELO
+
 PORTA 3 -> AZUL
+
 PORTA 4 -> ROXO
+
 PORTA 5 -> BRANCO
+
 PORTA 6 -> VERDE
+
 PORTA 7 -> VERMELHO
+
 PORTA 8 -> MARROM
+
 PORTA 9 -> PRETO
