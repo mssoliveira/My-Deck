@@ -17,11 +17,11 @@ Arduino -> cor do fio correspondente
 
 COLUNA
 
-PORTA 15 -> CINZA
+PORTA 15 -> VERDE
 
 PORTA 14 -> AZUL
 
-PORTA 16 -> VERDE
+PORTA 16 -> CINZA
 
 LINHA
 
